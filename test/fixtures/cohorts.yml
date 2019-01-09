@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  start_date: MyString
+  end_date: MyString
+  instructors_teaching_the_cohort: MyString
+  students_in_the_cohort: MyString
+
+two:
+  name: MyString
+  start_date: MyString
+  end_date: MyString
+  instructors_teaching_the_cohort: MyString
+  students_in_the_cohort: MyString
